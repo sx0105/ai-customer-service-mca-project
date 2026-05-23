@@ -8,7 +8,7 @@
 
 ## Files
 - `AI_Report.pdf` — Full project report
-- `AI_CS_Presentation.pptx` — Project presentation (8 slides)
+- `AI_CS_Presentation.pptx` — Project presentation
 
 ## Project Summary
 This study evaluates the impact of Artificial Intelligence in customer 
